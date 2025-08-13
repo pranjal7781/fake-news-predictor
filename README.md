@@ -12,4 +12,9 @@ Fake News Predictor is a machine learning-based project that classifies news art
 - **Web Interface**: Flask-based frontend for easy user interaction.
 
 ---
+## 🚀 Getting Started
 
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/pranjal7781/fake-news-predictor.git
+cd fake-news-predictor
