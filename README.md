@@ -1,5 +1,6 @@
 # Fake News Predictor - By Pranjal Saxena
 
+---
 
 ## 📁 Dataset & Model Files
 
@@ -26,6 +27,7 @@ Place them in a folder named `models/`.
 
 When brainstorming a creative AI project to address a common issue,I struck by the prevalence of misinformation in today’s world. From sensationalized news on platforms like TikTok to misleading articles circulating online, fake news is produced and shared at an alarming rate. Recognizing how easily people can fall for and spread such information, I inspired to develop a simple yet powerful tool. Our goal was to empower users to evaluate the credibility of articles quickly and effectively, equipping them with the means to combat fake news and promote informed decision-making.
 
+---
 ## **What it does**
 
 Fake News Predictor is a simple yet powerful tool designed to help users analyze the credibility of news articles. Users can paste any article into the platform and instantly receive a classification of whether the news is **True** or **False**, alongside a confidence score represented as a percentage. This confidence score allows users to gauge how certain the AI is in its prediction, with higher percentages reflecting greater certainty. 
