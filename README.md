@@ -1,5 +1,4 @@
 # Fake News Predictor - By Pranjal Saxena
-
 ---
 
 ## 📁 Dataset & Model Files
